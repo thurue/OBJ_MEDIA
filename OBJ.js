@@ -19,3 +19,7 @@ var MSR = (((SIM1 + SIM2) * 8) + REDAÇÃO * 2) / 10
 var MP = (PE * 3 + MSR + ATV) / 5
 
 console.log("sua media é", MP)
+
+
+alert("sua media é" + MP)
+
